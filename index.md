@@ -28,6 +28,9 @@ double quotation marks around the value, unless specified otherwise.
 And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
+<div class="alert alert-danger">
+  This workshop has been <b>canceled</b> due to the novel coronavirus. Campus facilities are closed and instructors are unavailable to teach. Please contact uccarpentries@gmail.com if you have any additional questions.
+</div>
 
 {% comment %}
 {% endcomment %}
